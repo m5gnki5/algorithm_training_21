@@ -1,4 +1,5 @@
-# Решение задач с [тренировок по алгоритмам Яндекса](https://yandex.ru/yaintern/algorithm-training)
+# Решение задач с тренировок по алгоритмам Яндекса
+https://yandex.ru/yaintern/algorithm-training  
 Задания образца лета 2021. Чтобы читать полный текст заданий и сабмитить код, нужно зарегистрироваться в Контесте.
 
 ---
@@ -24,7 +25,7 @@
 
 
 #### [E. Скорая помощь](/01e.py)
-Бригада скорой помощи выехала по вызову в один из отделенных районов. К сожалению, когда диспетчер получил вызов, он успел записать только адрес дома и номер квартиры <img src="https://render.githubusercontent.com/render/math?math=K_1">, а затем связь прервалась. Однако он вспомнил, что по этому же адресу дома некоторое время назад скорая помощь выезжала в квартиру <img src="https://render.githubusercontent.com/render/math?math=K_2">, которая расположена в подъезде <img src="https://render.githubusercontent.com/render/math?math=P_2"> на этаже <img src="https://render.githubusercontent.com/render/math?math=N_2">. Известно, что в доме <img src="https://render.githubusercontent.com/render/math?math=M"> этажей и количество квартир на каждой лестничной площадке одинаково. Нужно вычислить номер подъезда <img src="https://render.githubusercontent.com/render/math?math=P_1"> и номер этажа <img src="https://render.githubusercontent.com/render/math?math=N_1"> квартиры <img src="https://render.githubusercontent.com/render/math?math=K_">. [Подробнее](https://contest.yandex.ru/contest/27393/problems/E/).
+Бригада скорой помощи выехала по вызову в один из отделенных районов. К сожалению, когда диспетчер получил вызов, он успел записать только адрес дома и номер квартиры <img src="https://render.githubusercontent.com/render/math?math=K_1">, а затем связь прервалась. Однако он вспомнил, что по этому же адресу дома некоторое время назад скорая помощь выезжала в квартиру <img src="https://render.githubusercontent.com/render/math?math=K_2">, которая расположена в подъезде <img src="https://render.githubusercontent.com/render/math?math=P_2"> на этаже <img src="https://render.githubusercontent.com/render/math?math=N_2">. Известно, что в доме <img src="https://render.githubusercontent.com/render/math?math=M"> этажей и количество квартир на каждой лестничной площадке одинаково. Нужно вычислить номер подъезда <img src="https://render.githubusercontent.com/render/math?math=P_1"> и номер этажа <img src="https://render.githubusercontent.com/render/math?math=N_1"> квартиры <img src="https://render.githubusercontent.com/render/math?math=K_1">. [Подробнее](https://contest.yandex.ru/contest/27393/problems/E/).
 
 
 ---
