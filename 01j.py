@@ -10,6 +10,10 @@
 x и y является решением, вывести 5. Подробнее по ссылке
 https://contest.yandex.ru/contest/27393/problems/J/
 """
+
+# принимает на ввод коэффициенты уравнений
+# вида a*x + b*y = e
+#    и c*x + d*y = f
 a = int(input())
 b = int(input())
 c = int(input())

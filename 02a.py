@@ -1,7 +1,7 @@
 """
 Задача просит ответить, отсортирована ли по возрастанию
-последовательность чисел на вводе. Подробнее по ссылке
-https://contest.yandex.ru/contest/27472/problems/A/
+последовательность чисел на вводе. 
+Подробнее по ссылке https://contest.yandex.ru/contest/27472/problems/A/
 """
 
 nums = list(map(int, input().split()))
