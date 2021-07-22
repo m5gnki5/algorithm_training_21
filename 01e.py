@@ -1,11 +1,10 @@
 """
-Задача просит расчитать подъезд и этаж по номеру
-квартиры. Подробнее по ссылке
+Задача просит расчитать подъезд и этаж по номеру квартиры. Подробнее по ссылке
 https://contest.yandex.ru/contest/27393/problems/E/
 """
 import math
 
-def apts_per_storey(apt: int, hall: int, storey: int) ->int:
+def apts_per_storey(apt: int, hall: int, storey: int) -> int:
 	return math.ceil(apt/storey)
 
 """

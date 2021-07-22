@@ -5,7 +5,7 @@
 Подробнее по ссылке
 https://contest.yandex.ru/contest/27393/problems/B/
 """
-
+# ввод — три натуральных числа
 a = int(input())
 b = int(input())
 c = int(input())
