@@ -1,9 +1,8 @@
 """
-Задача просит определить тип последовательности чисел 
-на вводе из представленных шести. Подробнее по ссылке
+Задача просит определить тип последовательности чисел на вводе 
+из представленных шести. Подробнее по ссылке
 https://contest.yandex.ru/contest/27472/problems/B/
 """
-
 nums = []
 while True:
 	num = float(input())
@@ -31,12 +30,6 @@ elif sum(conds)==len(conds):
 	print("CONSTANT")
 elif len(conds)< sum(conds) < len(conds)*2:
 	print("WEAKLY ASCENDING")
-
-
-
-
-
-
 
 # print("DESCENDING") # последовательность является строго убывающей
 # print("WEAKLY DESCENDING") # последовательность является нестрого убывающей
